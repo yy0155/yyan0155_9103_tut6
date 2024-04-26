@@ -21,9 +21,9 @@
 
 [Link Text](https://www.google.com)
 
-![An image of a platypus(https://museumsvictoria.com.au/media/16781/platypus-closeup.jpg)
+![An image of a platypus](https://museumsvictoria.com.au/media/16781/platypus-closeup.jpg)
 
-![Mona Lisa] (assets/Mona_Lisa.jpg)
+![Mona Lisa] (p5project/assets/Mona_Lisa.jpg)
 
 ```js
 function helloWorld() {
