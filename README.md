@@ -21,4 +21,19 @@
 
 [Link Text](https://www.google.com)
 
-![An image of a cat](https://museumsvictoria.com.au/media/16781/platypus-closeup.jpg)
+![An image of a platypus(https://museumsvictoria.com.au/media/16781/platypus-closeup.jpg)
+
+![Mona Lisa] (assets/Mona_Lisa.jpg)
+
+```js
+function helloWorld() {
+    console.log("Hello, world!");
+}
+```
+
+>This is a block quote
+
+>this is
+>over multiple lines
+
+To escape formatting, use a **backslash** "\\"
