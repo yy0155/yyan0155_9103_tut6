@@ -23,7 +23,7 @@
 
 ![An image of a platypus](https://museumsvictoria.com.au/media/16781/platypus-closeup.jpg)
 
-![Mona Lisa] (p5project/assets/Mona_Lisa.jpg)
+![Mona Lisa] (p5Project/assets/Mona_Lisa.jpg)
 
 ```js
 function helloWorld() {
