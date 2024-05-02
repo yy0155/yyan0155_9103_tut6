@@ -22,6 +22,9 @@
 > In this part, I want to use the **Geometries** encoding technology to run in p5.js.
 
 - *Why I Choose this coding technique?*
-- This coding technique can help me to create a 3D canvas and draw various geometric shapes, including planes, cubes, cylinders, cones, toruses, and spheres. Each shape is dynamically rotated to create movement on the canvas, and lighting effects are applied to enhance the three-dimensional appearance.
+- This coding technique facilitates the creation of a 3D canvas and the rendering of diverse geometric shapes, including planes, cubes, cylinders, cones, toruses, and spheres. Each shape undergoes dynamic rotation, imbuing the canvas with fluid movement, while lighting effects are applied to heighten the three-dimensional appearance. Employing this technology can imbue the geometric figures within my project with a palpable three-dimensional visual effect, enhancing the overall texture of the project. 
 
+[Link to geometries coding](https://p5js.org/zh-Hans/examples/3d-geometries.html)
+
+![Image of coding results](assets/geometric.png)
 
