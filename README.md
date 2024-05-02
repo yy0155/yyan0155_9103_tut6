@@ -8,8 +8,7 @@
 
 [Link to trapunto art Example Image 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreator.nightcafe.studio%2Fcreation%2FEhcPO2J8Q5RuPNb8Fdin&psig=AOvVaw0BGU7rlAA9nRL3kwYDBv2H&ust=1714715337816000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjegsai7oUDFQAAAAAdAAAAABBY)
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+**Trapunto** is an art form that utilizes embroidery techniques to create raised effects on fabric, resulting in a visually rich three-dimensional appearance.
 
 - Item 1
 - Item 2
