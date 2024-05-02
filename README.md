@@ -26,5 +26,5 @@
 
 [Link to geometries coding](https://p5js.org/zh-Hans/examples/3d-geometries.html)
 
-![Image of coding results](GitHub/assets/geometric.png)
+![Image of coding results](readmeImages/geometric.png)
 
