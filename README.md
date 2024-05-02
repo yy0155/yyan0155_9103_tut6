@@ -25,5 +25,8 @@
 - This coding technique facilitates the creation of a 3D canvas and the rendering of diverse geometric shapes, including planes, cubes, cylinders, cones, toruses, and spheres. Each shape undergoes dynamic rotation, imbuing the canvas with fluid movement, while lighting effects are applied to heighten the three-dimensional appearance. Employing this technology can imbue the geometric figures within my project with a palpable three-dimensional visual effect, enhancing the overall texture of the project. 
 
 >The image below shows the effect of encoding.
+
 ![Image of coding results](readmeImages/geometric.png)
+
 [Link to geometries coding](https://p5js.org/zh-Hans/examples/3d-geometries.html)
+
