@@ -10,14 +10,10 @@
 
 **Trapunto** is an art form that utilizes embroidery techniques to create raised effects on fabric, resulting in a visually rich three-dimensional appearance.
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+- *Why I Choose this imaging technique?*
+  - Using this technique can significantly boost the visual depth and make the art more alive and interactive. Trapunto creating cool effects with light and shadow that highlight painting’s bright colors and detailed patterns. It’s a great way to pull viewers in and give them a more intense, hands-on experience with the art. I want to incorporate this three-dimensional technique into my project, which can make the geometric shapes in my project more tangible and visually appealing.
 
-  1. First Item
-1. Second Item
-2. Third Item
+
 
 ![Mona Lisa](p5Project/assets/Mona_Lisa.jpg)
 
