@@ -8,7 +8,7 @@
 
 [Link to trapunto art Example Image 1](https://creator.nightcafe.studio/creation/EhcPO2J8Q5RuPNb8Fdin)
 
-**Trapunto** is an art form that utilizes embroidery techniques to create raised effects on fabric, resulting in a visually rich three-dimensional appearance.
+>**Trapunto** is an art form that utilizes embroidery techniques to create raised effects on fabric, resulting in a visually rich three-dimensional appearance.
 
 - *Why I Choose this imaging technique?*
   - Using this technique can significantly boost the visual depth and make the art more alive and interactive. Trapunto creating cool effects with light and shadow that highlight painting’s bright colors and detailed patterns. It’s a great way to pull viewers in and give them a more intense, hands-on experience with the art. I want to incorporate this three-dimensional technique into my project, which can make the geometric shapes in my project more tangible and visually appealing.
@@ -17,15 +17,4 @@
 
 [Link to trapunto art Example Image 2](https://creator.nightcafe.studio/creation/X77TIG5l8oIITALeZEfK)
 
-```js
-function helloWorld() {
-    console.log("Hello, world!");
-}
-```
 
->This is a block quote
-
->this is
->over multiple lines
-
-To escape formatting, use a **backslash** "\\"
